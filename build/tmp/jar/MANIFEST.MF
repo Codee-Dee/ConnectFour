@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: Gamegogy
+Implementation-Version: 1.0
+Main-Class: connect4.Main
+
