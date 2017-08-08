@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="connect4.ConnectFourTest" tests="10" skipped="0" failures="1" errors="0" timestamp="2017-08-07T20:05:07" hostname="LAPTOP-1R2PEA1P" time="0.032">
+<testsuite name="connect4.ConnectFourTest" tests="10" skipped="0" failures="1" errors="0" timestamp="2017-08-07T23:57:08" hostname="LAPTOP-1R2PEA1P" time="0.016">
   <properties/>
-  <testcase name="testDroppingThreeTokensLeadsToNoWinner" classname="connect4.ConnectFourTest" time="0.016"/>
+  <testcase name="testDroppingThreeTokensLeadsToNoWinner" classname="connect4.ConnectFourTest" time="0.0"/>
   <testcase name="testDropRedTokenInThirdColumnThenBlackTokenOnTopOfIt" classname="connect4.ConnectFourTest" time="0.0"/>
   <testcase name="testNewGameBoardShouldBeEmpty" classname="connect4.ConnectFourTest" time="0.0"/>
   <testcase name="testDroppingOnAFullColumnShouldThrowException" classname="connect4.ConnectFourTest" time="0.0"/>

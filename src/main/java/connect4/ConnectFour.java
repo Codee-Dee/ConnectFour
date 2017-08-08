@@ -189,11 +189,12 @@ public class ConnectFour {
      * 
      * @return a string representing the board
      */
-	@Override
     public String toString() {
-		String board = "";
-		board.equals(getColumnAsString(1));
-        return board;
+        String board = "";
+		for (int i = 0; i < 7; i++){
+			board += getColumnAsString(i);
+		}
+		return board;
     }
 
 }
